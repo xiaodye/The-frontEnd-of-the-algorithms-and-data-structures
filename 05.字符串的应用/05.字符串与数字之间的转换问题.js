@@ -1,5 +1,7 @@
 /**
+ * 实现一个 atoi 函数，使其能将字符串转换成整数
  * @param {string} str
+ * @returns {number}
  */
 const myAtoi = function (str) {
   const reg = /\s*([-\+]?[0-9]*).*/
