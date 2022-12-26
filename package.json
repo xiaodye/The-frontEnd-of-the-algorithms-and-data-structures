@@ -1,0 +1,20 @@
+{
+  "name": "javascript-algorithms",
+  "version": "1.0.0",
+  "description": "前端算法与数据结构面试",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaodye/The-front-of-the-algorithms-and-data-structures.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaodye/The-front-of-the-algorithms-and-data-structures/issues"
+  },
+  "homepage": "https://github.com/xiaodye/The-front-of-the-algorithms-and-data-structures#readme"
+}
